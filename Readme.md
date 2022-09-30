@@ -1,14 +1,16 @@
 # Real-Time Communication System Powered by AI for Specially Abled
 
+## Team ID : PNT2022TMID27182
+
 ## Team members:
 
-Richard R
+### Team Leader : RICHARD R
 
-Rahul Fernandez H
+### Team member : RAHUL FERNANDEZ H
 
-Srinivasan S
+### Team member : SRINIVASAN S
 
-Indirakumar S
+### Team member : INDIRAKUMAR S
 
 
 | Industry Mentor(s) Name | : | Sowjanya, Sandeep Doodigani |
@@ -30,4 +32,5 @@ The project aims to develop a system that converts the sign language into a huma
 
 ## Technical Architecture:
 
-![]()![1662825852946]()
+![download](https://user-images.githubusercontent.com/88279768/193276666-8e42b7a4-4929-49a5-af6d-dcddcb9308e3.png)
+
